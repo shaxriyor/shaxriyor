@@ -9,9 +9,6 @@
   <a href="https://t.me/shakhri1707">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/shaxriyor1707">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=shaxriyor&style=flat-square&color=blue"/>
@@ -28,7 +25,7 @@ I am a Computer Science student from Tashkent <img src="https://media.giphy.com/
 - :zap: In my free time, I play some computer games and enjoy immersing myself in virtual worlds.
 
 
-- :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Shakh1707-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Shakh1707)
+- :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/-Shakh1707-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Shakhri1707)
 
 ---
 
