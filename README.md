@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 <div id="badges">
-  <a href="https://t.me/shakh1707">
+  <a href="https://t.me/shakhri1707">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/shaxriyor1707">
