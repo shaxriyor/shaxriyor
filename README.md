@@ -5,7 +5,6 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
-<div id="badges">
 <img src="https://komarev.com/ghpvc/?username=shaxriyor&style=flat-square&color=blue"/>
 </div>
 
